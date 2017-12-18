@@ -1,14 +1,9 @@
-target/
+target
 _site/
-*.swp
-pkg/
-test/
-.jekyll-metadata
 .sass-cache/
+.jekyll-metadata
+_pdf
+.DS_Store
+.idea
+.iml
 
-# Idea #
-##################
-*.iml
-*.ipr
-*.iws
-.idea/

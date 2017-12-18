@@ -1,0 +1,68 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: Sidebar
+  levels: one
+  folders:
+
+  - title: Plugin Authoring
+    output: web
+    folderitems:
+    - title: Overview And Quick Start
+      url: /developer.html
+      output: web
+    - title: Assemblies
+      url: /che-assemblies.html
+      output: web
+    - title: Modules
+      url: /che-modules.html
+      output: web
+    - title: REST APIs
+      url: /rest-apis.html
+      output: web
+  - title: Extensibility Model
+    output: web
+    folderitems:
+    - title: IDE Extensions&#58 GWT
+      url: /ide-extensions-gwt.html
+      output: web
+    - title: IDE Extensions&#58 JavaScript
+      url: /ide-extensions-js.html
+      output: web
+    - title: Server Side Extensions
+      url: /server-side-extensions.html
+      output: web
+    - title: IDE UI&#58 Parts
+      url: /parts.html
+      output: web
+    - title: IDE UI&#58 Actions
+      url: /actions.html
+      output: web
+    - title: IDE UI&#58 Editor
+      url: /editor.html
+      output: web
+    - title: IDE UI&#58 Themes
+      url: /themes.html
+      output: web
+
+  - title: Infrastructure and SPI
+    output: web
+    folderitems:
+    - title: Overview and Motivation
+      url: /spi.html
+      output: web
+  - title: Dev Essentials
+    output: web
+    folderitems:
+    - title: Dependency Injection
+      url: /guice.html
+      output: web
+    - title: Transport&#58 DTO
+      url: /dto.html
+      output: web
+    - title: Communication&#58 JSON-RPC
+      url: /json-rpc.html
+      output: web
+    - title: Projects and File System
+      url: /projects-file-system.html
+      output: web
